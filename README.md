@@ -1,4 +1,4 @@
-﻿## Getting started
+﻿### Getting started
 
 ### This library is only for react-native <= 0.59.10
 
