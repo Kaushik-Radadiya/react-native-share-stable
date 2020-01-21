@@ -1,6 +1,6 @@
 ﻿## Getting started
 
-### This library is only for react-native >= 0.59.10
+### This library is only for react-native <= 0.59.10
 
 ### Resolved below issue for older version of react-native.
 Illegal callback invocation from native module. This callback type only permits a single invocation from native code. 
